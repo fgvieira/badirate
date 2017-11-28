@@ -1,4 +1,4 @@
-﻿#!/usr/bin/perl
+#!/usr/bin/env perl
 #
 #    BadiRate - Estimating gene family turnover rates by likelihood-based methods
 #      Copyright (C) 2012 Pablo Librado, Filipe Garrett Vieira, Julio Rozas and Universitat de Barcelona (UB)
