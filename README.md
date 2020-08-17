@@ -54,3 +54,7 @@ where the options are specified in the control file (see manual for more details
     -start_val	Starting values for the likelihood methods
     -treefile	Phylogenetic tree in Newick format
     -version	Report the BadiRate version
+
+### Contact
+
+For questions please contact the main developed at ![mail](https://bit.ly/2DYE86c)
